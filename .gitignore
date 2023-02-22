@@ -1,0 +1,29 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Rock-Paper-Scissors/*
+!/Rock-Paper-Scissors/task/
+/Rock-Paper-Scissors/task/*
+!/Rock-Paper-Scissors/task/src
+
+# Project exclude paths
+/Topics/Conditional statement/Chocolate/out/
+/Topics/Conditional statement/Chocolate/out/production/classes/
+/Topics/Exception handling/Catching some exceptions/out/
+/Topics/Exception handling/Catching some exceptions/out/production/classes/
+/Topics/Hierarchy of exceptions/Overview the hierarchy/out/
+/Topics/Hierarchy of exceptions/Overview the hierarchy/out/production/classes/
+/Topics/Increment and decrement/Decrement all/out/
+/Topics/Increment and decrement/Decrement all/out/production/classes/
